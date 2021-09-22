@@ -4,3 +4,5 @@ description: interesting description
 github:
   zip_url: https://github.com/michael0419
   another_url: another value
+show_downloads: false
+
