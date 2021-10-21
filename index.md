@@ -35,9 +35,11 @@ TBD.
 | [README](https://github.com/Slaeh/FoodForThought#readme)  | [GitHub](https://github.com/Slaeh/FoodForThought)  | [Website](https://food-for-thought-psi.vercel.app/) |  
 
 ### ShortUrlScanner  
-![ShortUrlScanner](images/shorturlscanner.png)  
+![ShortUrlScanner](images/shorturlscanner.png) 
+ 
 A node.js project that scans a url for you and gives a shotened link of the results.  
-[GitHub](https://github.com/michael0419/ShortUrlScanner)
+
+| [GitHub](https://github.com/michael0419/ShortUrlScanner) |
 
 ### Contact Me  
 
