@@ -1,10 +1,11 @@
 # About Me
-```markdown
+
 Hi, I'm a person. My name attribute is up there and my story starts here. 
 
 I'm currently an undergraduate attending CUNY Queens College, 
 working on getting my Bachelor's degree in Computer Science.
 
+```markdown
 So far, I have completed classes on: 
 - Object-Oriented Programming in Java and in C++
 - Theory of Computation
@@ -24,13 +25,13 @@ And classes in this list would soon join their bretheren:
 TBD.
 ## Resume by Me 
 
-[Right here](resume/Cai_Resume_2021.pdf)
+[Resume 2021](resume/Cai_Resume_2021.pdf)
 
 ## Recent Projects  
 
 ### Food For Thought - CUNY Hackathon Jan. 2021  
 ![foodforthought](images/foodforthought.png)  
-| [ReadME](https://github.com/Slaeh/FoodForThought#readme)  | [Github](https://github.com/Slaeh/FoodForThought)  | [Website](https://food-for-thought-psi.vercel.app/) |  
+| [README](https://github.com/Slaeh/FoodForThought#readme)  | [GitHub](https://github.com/Slaeh/FoodForThought)  | [Website](https://food-for-thought-psi.vercel.app/) |  
 
 ### ShortUrlScanner  
 ![ShortUrlScanner](images/shorturlscanner.png)  
