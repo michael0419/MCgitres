@@ -31,6 +31,7 @@ TBD.
 ### Food For Thought - CUNY Hackathon Jan. 2021
 ![foodforthought](images/foodforthought.png)
 [ReadME](https://github.com/Slaeh/FoodForThought#readme) | [Github](https://github.com/Slaeh/FoodForThought) | [Website](https://food-for-thought-psi.vercel.app/)
+------------ | ------------- | -------------
 
 ### ShortUrlScanner
 ![ShortUrlScanner](images/shorturlscanner.png)
@@ -40,3 +41,4 @@ A node.js project that scans a url for you and gives a shotened link of the resu
 ### Contact Me 
 
 [Linkedin](https://www.linkedin.com/in/michael-cai-a6515921b/)  | [GitHub](https://github.com/michael0419)
+------------ | ------------- 
