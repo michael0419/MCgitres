@@ -1,12 +1,29 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/michael0419/MCgitres/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm a person. My name attribute is up there and my story start here. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently an undergraduate attending CUNY Queens College, working on getting my Bachelor's degree in Computer Science.
 
-### Markdown
+So far, I have completed classes on: 
+- Object-Oriented Programming in Java and in C++
+- Theory of Computation
+- Functional Programming
+- Data Structures 
+- Design & Analysis of Algorithms 
+- Database Fundamentals
+- Internet & Web Technologies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+And classes in this list would soon join their bretheren:
+- Numerical Methods
+- Computaitonal Finance
+- Data Analytics
+- Software Engineering
+
+TBD.
+
+### Resume
+This is a test to see if the link works
+[a relative link](resume/Cai_Resume_2021.pdf)
 
 ```markdown
 Syntax highlighted code block
