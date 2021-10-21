@@ -37,11 +37,14 @@ TBD.
 
 
 ### ShortUrlScanner  
+
+| [GitHub](https://github.com/michael0419/ShortUrlScanner) |  
+
 ![ShortUrlScanner](images/shorturlscanner.png) 
  
 A node.js project that scans a url for you and gives a shotened link of the results.  
 
-| [GitHub](https://github.com/michael0419/ShortUrlScanner) |
+
 
 ### Contact Me  
 
