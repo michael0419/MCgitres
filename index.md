@@ -29,9 +29,9 @@ TBD.
 ## Recent Projects  
 
 ###### Header 6  
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| head1        | head two          | three | 
+|:-------------|:------------------|:------| 
+| ok           | good swedish fish | nice  | 
 
 
 ### Food For Thought - CUNY Hackathon Jan. 2021  
