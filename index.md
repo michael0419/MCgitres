@@ -2,7 +2,8 @@
 ```markdown
 Hi, I'm a person. My name attribute is up there and my story start here. 
 
-I'm currently an undergraduate attending CUNY Queens College, working on getting my Bachelor's degree in Computer Science.
+I'm currently an undergraduate attending CUNY Queens College, 
+working on getting my Bachelor's degree in Computer Science.
 
 So far, I have completed classes on: 
 - Object-Oriented Programming in Java and in C++
@@ -22,8 +23,8 @@ And classes in this list would soon join their bretheren:
 
 TBD.
 ## Resume by Me 
-This is a test to see if the link works
-[a relative link](resume/Cai_Resume_2021.pdf)
+
+[Right here](resume/Cai_Resume_2021.pdf)
 
 
 ### Contact Me 
