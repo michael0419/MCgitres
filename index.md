@@ -31,6 +31,7 @@ TBD.
 
 ### Food For Thought - CUNY Hackathon Jan. 2021  
 ![foodforthought](images/foodforthought.png)  
+
 | [README](https://github.com/Slaeh/FoodForThought#readme)  | [GitHub](https://github.com/Slaeh/FoodForThought)  | [Website](https://food-for-thought-psi.vercel.app/) |  
 
 ### ShortUrlScanner  
