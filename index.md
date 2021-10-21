@@ -30,7 +30,7 @@ TBD.
 
 ### Food For Thought - CUNY Hackathon Jan. 2021  
 ![foodforthought](images/foodforthought.png)  
-| [ReadME](https://github.com/Slaeh/FoodForThought#readme) | [Github](https://github.com/Slaeh/FoodForThought) | [Website](https://food-for-thought-psi.vercel.app/) |  
+| [ReadME](https://github.com/Slaeh/FoodForThought#readme)  | [Github](https://github.com/Slaeh/FoodForThought)  | [Website](https://food-for-thought-psi.vercel.app/) |  
 
 ### ShortUrlScanner  
 ![ShortUrlScanner](images/shorturlscanner.png)  
