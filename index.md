@@ -32,14 +32,14 @@ Currently, Michael is looking into studying data science and cybersecurity as po
 
 ## Recent Projects  
 
-### Food For Thought - CUNY Hackathon Jan. 2021  
+### Food For Thought for CUNY Hackathon - Jan. 2021  
 
 | [README](https://github.com/Slaeh/FoodForThought#readme)  | [GitHub](https://github.com/Slaeh/FoodForThought)  | [Website](https://food-for-thought-psi.vercel.app/) |  
  
 ![foodforthought](images/foodforthought.png)  
 
 
-### ShortUrlScanner  - Jan. 2021 
+### ShortUrlScanner - Jan. 2021 
 
 | [GitHub](https://github.com/michael0419/ShortUrlScanner) |  
 
