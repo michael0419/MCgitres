@@ -1,28 +1,31 @@
 # About Me
 
-Hi, I'm a person. My name attribute is up there and my story starts here. 
-
-I'm currently an undergraduate attending CUNY Queens College, 
-working on getting my Bachelor's degree in Computer Science.
+Michael Cai is an undergraduate attending CUNY Queens College pursuing a bachelor's degree in Computer Science. 
+With a GPA of 3.97 and a expected graduation date of May 2022, Michael had consistently performed in a variety of problem solving courses.
 
 ```markdown
-So far, I have completed classes on: 
+Courses he had completed include: 
 - Object-Oriented Programming in Java and in C++
 - Theory of Computation
 - Functional Programming
 - Data Structures 
 - Design & Analysis of Algorithms 
 - Database Fundamentals
-- Internet & Web Technologies
+- Internet & Web Technologies  
 
-And classes in this list would soon join their bretheren:
+These are the courses he is currently taking:
 - Numerical Methods
 - Computaitonal Finance
 - Data Analytics
 - Software Engineering
 ```
 
-TBD.
+Outside of academic marks, Michael enjoys working with peers and being a team player. His efforts to use clear communication and organization of assigning tasks had led him to much success in leadership. In high school, he had been elected as the head of engineer for his robotics team for his ability to explain mechanical concepts and delegate tasks effectively. In college he had led multiple group projects and recieved acknowledgement from both his peers and professors for his teamwork. 
+
+Michael was also a tutor at the Academic Support Center for the database course.
+
+Currently, Michael is looking into studying data science and cybersecurity as potential career options.
+
 ## Resume by Me 
 
 [Resume 2021](resume/Cai_Resume_2021.pdf)
