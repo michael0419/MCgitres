@@ -1,5 +1,5 @@
 # About Me
-![profile image](https://media-exp1.licdn.com/dms/image/C4E03AQHw6E9GHcDaGw/profile-displayphoto-shrink_800_800/0/1630292550669?e=1652918400&v=beta&t=1k0zl_8Hb6rU90EZz4g5MRbchDjVC-oDODT0U2wrD-s)  
+![profile image](https://media-exp1.licdn.com/dms/image/C4E03AQHw6E9GHcDaGw/profile-displayphoto-shrink_800_800/0/1630292550669?e=1652918400&v=beta&t=1k0zl_8Hb6rU90EZz4g5MRbchDjVC-oDODT0U2wrD-s =250x)  
 Hello there, my name is Michael Cai.   
 I am an undergraduate attending CUNY Queens College pursuing a bachelor's degree in Computer Science.   
 Currently I have a GPA of 3.97 and a expected graduation date of June 2022.  
