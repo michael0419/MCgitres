@@ -39,6 +39,7 @@ Currently, I am looking into studying data science and cybersecurity as potentia
 | [README](https://github.com/michael0419/TitleSkimmer#readme)  | [GitHub](https://github.com/michael0419/TitleSkimmer)  | [Website (lite version)](https://title-skimmer-lite.herokuapp.com/) |  
 Front page:    
 ![titleSkimmer front page](images/titleSkimmer0.png)  
+
 Results page:    
 ![titleSkimmer results](images/titleSkimmer1.png)  
 
