@@ -32,7 +32,7 @@ Currently, I am looking into studying data science and cybersecurity as potentia
 
 | [Linkedin](https://www.linkedin.com/in/michael-cai-a6515921b/)  | [GitHub](https://github.com/michael0419) |    
   
-## Recent Projects  
+## My Recent Projects  
   
 ### Title Skimmer for CUNY Tech Prep - Dec. 2021  
 
