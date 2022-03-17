@@ -18,12 +18,12 @@ Courses I have completed include:
 - Computaitonal Finance  
 ```
 
-#####Outside of academic marks, I enjoy working with peers and being a team player. My efforts to use clear communication and organization of assigning tasks had led to much success in leadership. In high school, I have been elected as the head of engineer for the robotics team for my ability to explain mechanical concepts and delegate tasks effectively. In college I led multiple group projects and recieved acknowledgement from both my peers and professors for teamwork. 
+Outside of academic marks, I enjoy working with peers and being a team player. My efforts to use clear communication and organization of assigning tasks had led to much success in leadership. In high school, I have been elected as the head of engineer for the robotics team for my ability to explain mechanical concepts and delegate tasks effectively. In college I led multiple group projects and recieved acknowledgement from both my peers and professors for teamwork. 
   
-#####I also worked as a tutor at the Academic Support Center at Queens College for the database course.
+I also worked as a tutor at the Academic Support Center at Queens College for the database course.  
 
-#####Currently, I am looking into studying data science and cybersecurity as potential career options. 
-
+Currently, I am looking into studying data science and cybersecurity as potential career options.  
+  
 ## Resume by Me 
 
 [Resume 2021](resume/Cai_Resume_2022.pdf)
@@ -33,9 +33,9 @@ Courses I have completed include:
 ### Title Skimmer for CUNY Tech Prep - Dec. 2021  
 
 | [README](https://github.com/michael0419/TitleSkimmer#readme)  | [GitHub](https://github.com/michael0419/TitleSkimmer)  | [Website (lite version)](https://title-skimmer-lite.herokuapp.com/) |  
-####Front page:    
+Front page:    
 ![titleSkimmer front page](images/titleSkimmer0.png)  
-####Results page:    
+Results page:    
 ![titleSkimmer results](images/titleSkimmer1.png)  
 
 ### Food For Thought for CUNY Hackathon - Jan. 2021  
