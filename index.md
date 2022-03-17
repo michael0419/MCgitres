@@ -26,7 +26,7 @@ Currently, I am looking into studying data science and cybersecurity as potentia
   
 ## Resume
 
-[Resume 2021](resume/Cai_Resume_2022.pdf)
+[Resume 2022](resume/Cai_Resume_2022.pdf)
 
 ## Contact Me  
 
