@@ -24,10 +24,14 @@ I also worked as a tutor at the Academic Support Center at Queens College for th
 
 Currently, I am looking into studying data science and cybersecurity as potential career options.  
   
-## Resume by Me 
+## Resume
 
 [Resume 2021](resume/Cai_Resume_2022.pdf)
 
+## Contact Me  
+
+| [Linkedin](https://www.linkedin.com/in/michael-cai-a6515921b/)  | [GitHub](https://github.com/michael0419) |    
+  
 ## Recent Projects  
   
 ### Title Skimmer for CUNY Tech Prep - Dec. 2021  
@@ -53,9 +57,4 @@ Results page:
  
 A node.js project that scans a url for you and gives a shotened link of the results.  
 
-
-
-## Contact Me  
-
-| [Linkedin](https://www.linkedin.com/in/michael-cai-a6515921b/)  | [GitHub](https://github.com/michael0419) |  
 
