@@ -1,2 +1,2 @@
 # MCgitres
-WIP Github Pages Resume Site
+My WIP Github Pages Resume Site
