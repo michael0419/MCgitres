@@ -38,7 +38,7 @@ I also worked as a tutor at the Academic Support Center at Queens College for th
   
 ## Resume
 
-[Resume 2023](resume/Cai_Resume_2023.pdf)  
+[Resume 2023](resume/Cai_Resume_2023.pdf)  |  [Resume 2023 For Web](resume/Cai_Resume_2023_Web_Cloud.pdf)  |  [Resume 2023 For ML](resume/Cai_Resume_2023_ML_and_Data.pdf)  
 [Resume 2022](resume/Cai_Resume_2022.pdf)
 
 ## Contact Me  
